@@ -1,4 +1,4 @@
-# Frontend Mentor - Stats preview card component solution
+# Footer blueprint 
 
 This is a footer blueprint 
 
@@ -7,7 +7,7 @@ This is a footer blueprint
 
 ### Links
 
-- Solution URL: https://iliaivashkevich.github.io/stats_preview
+- Solution URL: https://iliaivashkevich.github.io/footer_with_tailwind
 
 ### Built with
 
